@@ -1,0 +1,260 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.header{
+    /* border: 2px solid rgb(210, 13, 13); */
+    background-color: rgb(25, 25, 26);
+    color: rgb(138, 142, 142);
+    text-align: center;
+    padding: 10px;
+}
+span{
+    /* border: 2px solid green; */
+    margin: 8px;
+}
+.headerimg{
+width: 25px;
+}
+.firstdiv{
+    border: 2px solid rgb(12, 13, 12);
+    background-color: black;
+    text-align: center;
+    color: rgb(138, 142, 142);
+    height: 650px;
+}
+.bigapple{
+    /* border: 2px solid green; */
+    text-align: center;
+    width: 400px;
+padding: 10px;
+}
+
+#wvdc24{
+    /* size: 100px; */
+    /* border: 2px solid yellow; */
+    padding-right: 60px; 
+    color: white;
+    
+}
+#worldwide{
+    /* border: 2px solid blue; */
+    font-size:28px;
+    color: white;
+   
+}
+.learnmore{
+  border: 0px solid ;
+  background-color: rgb(6, 104, 165);
+  border-radius: 19px;
+  color: azure;
+  font-size: 30px;
+  padding: 8px;
+  margin: 10px;  
+}
+.seconddiv{
+    margin-top: 15px;
+    border: 2px solid rgb(2, 9, 2);
+    background-color: black;
+    height:600px;
+}
+.iphonetitanium{
+    height: 300px;
+    /* border: 2px solid green; */
+}
+#iphone{
+    /* border: 2px solid green; */
+    color: white;
+    text-align: center;
+    margin-top: 40px;
+    font-size: 68px;
+}
+#titanium{
+    /* border: 2px solid green; */
+    color: white;
+    text-align: center;
+    font-size: 34px;
+}
+.learnmore1{
+    border: 0px solid ;
+    background-color: rgb(6, 104, 165);
+    border-radius: 19px;
+    color: azure;
+    font-size: 30px;
+    padding: 8px; 
+    
+}
+.twobtn{
+text-align: center;
+padding-top: 17px;
+}
+ #learnmore1{
+    border: 2px solid  rgb(51, 51, 216);
+    background-color: rgb(7, 8, 9); 
+    border-radius: 19px;
+    color: rgb(64, 54, 244);
+    font-size: 23px;
+    padding: 8px;
+}
+.proimg{
+    height: 220px;
+    /* border: 2px solid green;  */
+    text-align: center;
+   padding: 60px; 
+}
+.proimgone{
+    /* border: 2px solid green; */
+width: 700px;
+}
+.thirddiv{
+    margin-top: 15px;
+    border: 2px solid rgb(2, 9, 2);
+    background-color: black;
+    height:600px;
+}
+.fourthdiv{
+    height: 1500px;
+    width: 100%;
+    /* border: 2px solid rgb(221, 20, 235); */
+    background-color: white;
+    margin-top: 15px;
+}
+.fourthdivone{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content: space-around;
+    /* border: 2px solid rgb(31, 193, 107); */
+}
+.fourthdivoneimg{
+  max-width: 50%;
+    height: 500px;
+    background-color: black;
+}
+#fourthdivone{
+    width: 50%;
+    height: 500px;
+    margin: 8px;
+}
+.fourthdivtwo{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content: space-around;
+    /* border: 2px solid rgb(31, 193, 107); */
+}
+.fourthdivtwoimg{
+  max-width: 50%;
+    height: 500px;
+    background-color: black;
+}
+#fourthdivtwo{
+    width: 50%;
+    height: 500px;
+    margin: 8px;
+}
+.fourthdivthree{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content: space-around;
+    /* border: 2px solid rgb(31, 193, 107); */
+}
+.fourthdivthreeimg{
+  max-width: 50%;
+    height: 500px;
+    background-color: black;
+}
+#fourthdivthree{
+    width: 50%;
+    height: 500px;
+    margin: 8px;
+}
+
+
+
+.fifthdiv{
+    width: 100%;
+    height: 450px;
+    /* border: 2px solid rgb(206, 15, 15);  */
+}
+/* .fifthimg{
+    width: 100%;
+    height: 450px; */
+    /* border: 2px solid rgb(18, 200, 63);  */
+/* } */
+#bigimg{
+    width: 98%;
+    height: 430px;
+    margin: 10px;
+}
+.sixthdiv{
+    width: 99%;
+    height: 300px;
+   display: flex;
+   justify-content: space-around;
+  margin: 3px;
+}
+.sixthdiv img{
+    max-width: 32%;
+    height: 300px;
+}
+.seven{
+    /* border: 2px solid rgb(202, 103, 10); */
+    background-color: rgb(245, 245, 247);
+    margin-top: 50px;
+    
+}
+.content{
+    
+    color: rgb(192, 170, 170);
+background-color: rgb(245, 245, 247);
+font-size:small;
+font-family: 'Times New Roman', Times, serif;
+/* border: 2px solid rgb(75, 11, 226); */
+margin-left: 15%;
+margin-right: 15%;
+}
+.line{
+    border: 1px solid rgb(192, 170, 170);
+    height: 100%;
+}
+.one{
+    list-style-position: inside;
+    color: rgb(81, 67, 67);
+    /* border: 2px solid rgb(74, 12, 188); */
+    width: 20%;
+    float: left;
+    
+    
+}
+#one{
+    list-style-type: none;
+    
+}
+
+#two{
+    list-style-type: none;
+    
+}
+.contentone{
+    border: 2px solid rgb(10, 222, 74); 
+}
+.list{
+    /* border: 2px solid rgb(221, 122, 15); */
+    height: 525px;
+}
+#three{
+    list-style-type: none;  
+}
+#usa{
+    text-align: right;
+}
+.Copyright{
+    /* border: 2px solid rgb(42, 14, 165); */
+    width: 60%;
+}
+.copyrightusa{
+    /* border: 2px solid rgb(42, 14, 165); */
+    width: 60%;
+}
