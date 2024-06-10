@@ -31,11 +31,14 @@ padding: 10px;
 }
 
 #wvdc24{
-    /* size: 100px; */
+    font-size: 50px;
     /* border: 2px solid yellow; */
     padding-right: 60px; 
-    color: white;
-    
+    color: white;  
+}
+#wvdc24apple{
+    width: 50px;
+    /* margin-top: 3%; */
 }
 #worldwide{
     /* border: 2px solid blue; */
@@ -124,7 +127,33 @@ width: 700px;
     height: 500px;
     display: flex;
     justify-content: space-around;
+    position: relative;
     /* border: 2px solid rgb(31, 193, 107); */
+
+}
+.text1{
+    position: absolute;
+    transform: translate(-50%,-50%);
+    left: 20%;
+    top: 66%;
+    color: white;
+    font-size: 35px;
+}
+.text2{
+    position: absolute;
+    transform: translate(-50%,-50%);
+    left: 21%;
+    top: 69%;
+    color: white;
+    font-size: 35px;
+    
+}
+.text3{
+    position: absolute;
+    transform: translate(-50%,-50%);
+    left: 20%;
+    top: 80%;
+    color: white;
 }
 .fourthdivoneimg{
   max-width: 50%;
@@ -152,6 +181,7 @@ width: 700px;
     width: 50%;
     height: 500px;
     margin: 8px;
+    /* background-color: black; */
 }
 .fourthdivthree{
     width: 100%;
