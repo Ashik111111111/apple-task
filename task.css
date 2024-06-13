@@ -7,10 +7,9 @@
     background-color: rgb(25, 25, 26);
     color: rgb(138, 142, 142);
     text-align: center;
-    padding: 10px;
+    padding: 10px;  
 }
 span{
-    /* border: 2px solid green; */
     margin: 8px;
 }
 .headerimg{
@@ -121,88 +120,101 @@ width: 700px;
     /* border: 2px solid rgb(221, 20, 235); */
     background-color: white;
     margin-top: 15px;
-}
-.fourthdivone{
-    width: 100%;
-    height: 500px;
-    display: flex;
-    justify-content: space-around;
-    position: relative;
-    /* border: 2px solid rgb(31, 193, 107); */
-
-}
-.text1{
-    position: absolute;
-    transform: translate(-50%,-50%);
-    left: 20%;
-    top: 66%;
-    color: white;
-    font-size: 35px;
-}
-.text2{
-    position: absolute;
-    transform: translate(-50%,-50%);
-    left: 21%;
-    top: 69%;
-    color: white;
-    font-size: 35px;
     
 }
-.text3{
-    position: absolute;
-    transform: translate(-50%,-50%);
-    left: 20%;
-    top: 80%;
-    color: white;
-}
-.fourthdivoneimg{
-  max-width: 50%;
+.fourthdivone{
     height: 500px;
-    background-color: black;
+    width: 100%;
+    /* border: 2px solid rgb(201, 8, 27); */
+    display: flex;
 }
-#fourthdivone{
+.fourthdivoneone{
+    height: 480px;
     width: 50%;
-    height: 500px;
-    margin: 8px;
+    /* border: 2px solid rgb(16, 16, 163); */
+    margin: 6px 6px 6px 6px;   
+}
+#img1{
+    height: 480px;
+    width: 100%;
+    background-color: rgb(10, 11, 11);
+}
+/* .student{
+    display: inline-block;
+    position: relative;
+    top: 50px;
+    left: 500px;
+    
+    color: rgb(11, 2, 2);
+}
+.mac{
+    display: inline-block;
+    position: relative;
+    top: 50px;
+    left: 500px;
+    
+    color: rgb(11, 2, 2);}
+ .btn{
+        display: inline-block;
+        position: relative;
+        top: 50px;
+        left: 500px;
+        
+        color: rgb(11, 2, 2);} */
+.fourthdivonetwo{
+    height: 480px;
+    width: 50%;
+    /* border: 2px solid rgb(221, 20, 235); */
+    margin: 6px 6px 6px 6px;
+   
+  
 }
 .fourthdivtwo{
+    height: 500px;
     width: 100%;
-    height: 500px;
+    /* border: 2px solid rgb(16, 180, 79); */
     display: flex;
-    justify-content: space-around;
-    /* border: 2px solid rgb(31, 193, 107); */
+    
 }
-.fourthdivtwoimg{
-  max-width: 50%;
-    height: 500px;
-    background-color: black;
-}
-#fourthdivtwo{
+.fourthdivonethree{
+    height: 480px;
     width: 50%;
-    height: 500px;
-    margin: 8px;
-    /* background-color: black; */
+    /* border: 2px solid rgb(221, 20, 235); */
+    margin: 6px 6px 6px 6px;
+    /* background-color: rgb(217, 22, 41); */
+    
+}
+.fourthdivonefour{
+    height: 480px;
+    width: 50%;
+    /* border: 2px solid rgb(221, 20, 235); */
+    margin: 6px 6px 6px 6px;
+    /* background-color: rgb(28, 161, 79); */
+  
 }
 .fourthdivthree{
+    height: 500px;
     width: 100%;
-    height: 500px;
+    /* border: 2px solid rgb(12, 12, 224); */
     display: flex;
-    justify-content: space-around;
-    /* border: 2px solid rgb(31, 193, 107); */
+    
 }
-.fourthdivthreeimg{
-  max-width: 50%;
-    height: 500px;
-    background-color: black;
-}
-#fourthdivthree{
+.fourthdivonefive{
+    height: 480px;
     width: 50%;
-    height: 500px;
-    margin: 8px;
+    /* border: 2px solid rgb(221, 20, 235); */
+    margin: 6px 6px 6px 6px;
+    /* background-color: rgb(169, 221, 15); */
+   
 }
-
-
-
+.fourthdivonesix{
+    height: 480px;
+    width: 50%;
+    /* border: 2px solid rgb(221, 20, 235); */
+    margin: 6px 6px 6px 6px;
+    /* background-color: rgb(15, 4, 4); */
+    
+}
 .fifthdiv{
     width: 100%;
     height: 450px;
@@ -268,7 +280,7 @@ margin-right: 15%;
     
 }
 .contentone{
-    border: 2px solid rgb(10, 222, 74); 
+    /* border: 2px solid rgb(10, 222, 74);  */
 }
 .list{
     /* border: 2px solid rgb(221, 122, 15); */
@@ -287,4 +299,65 @@ margin-right: 15%;
 .copyrightusa{
     /* border: 2px solid rgb(42, 14, 165); */
     width: 60%;
+}
+#store1{
+    list-style: none;
+    color: white;
+}
+#store2{
+    color: white;
+    list-style: none;
+    
+}
+#store3{
+    list-style: none;
+    color: white;
+}
+.same{
+    color: gray;
+}
+.hiddensectiondiv{
+    /* border: 2px solid red; */
+    display: block;
+    display: flex;
+}
+ #store2{
+    list-style: none;
+    color: white;
+    text-align: left;
+   margin-left: 3em;
+   font-size: 18px;
+   margin-top: 19px;  
+     
+}
+#store3{
+    list-style: none;
+    color: white;
+    text-align: left;
+   margin-left: 1em;
+   font-size: 18px;
+   margin-top: 19px;
+}
+.hiddensection{
+    overflow: hidden;
+    height: 0px;
+    opacity: 0;
+  transition: height 0.9s, opacity 0.9s;
+
+}
+#store1{
+    list-style: none;
+    color: white;
+    text-align: left;
+   margin-left: 16em;
+   font-size: 20px;
+   margin-top: 19px;
+}
+.store:hover~.hiddensection{
+    height: 30rem;
+    opacity: 1; 
+}
+.mac:hover~.hiddensection{
+    height: 30rem;
+    opacity: 1; 
 }
